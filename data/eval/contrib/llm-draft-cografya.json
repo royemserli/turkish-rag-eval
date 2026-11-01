@@ -151,7 +151,11 @@
    "annotator": "llm-2",
    "answer_span": "Ateşli Dağ"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-012",
@@ -165,7 +169,11 @@
    "annotator": "llm-2",
    "answer_span": "Ağrı'ya tırmanış 1990 yılında yasaklandı. 1998'de Dağcılık Federasyonunun bir grup dağcıya izin vermesiyle bu yasak kaldırıldı."
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-013",
@@ -179,7 +187,11 @@
    "annotator": "llm-2",
    "answer_span": "Türkiye'nin tuz ihtiyacının %40'ı bu gölden sağlanır"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-014",
@@ -193,7 +205,11 @@
    "annotator": "llm-2",
    "answer_span": "yılda ortalama 324 mm/m² yağış"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-015",
@@ -207,7 +223,11 @@
    "annotator": "llm-2",
    "answer_span": "tuzluluk oranı binde 329 gibi dikkat çekici bir orana erişmektedir"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-016",
@@ -221,7 +241,11 @@
    "annotator": "llm-2",
    "answer_span": "dunaliella salina adı verilen bir tür su yosununun (alg)"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-017",
@@ -235,7 +259,11 @@
    "annotator": "llm-2",
    "answer_span": "1915 yılından beri %85 oranında küçülmüştür"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-018",
@@ -249,7 +277,11 @@
    "annotator": "llm-2",
    "answer_span": "1 milyar m³ doğalgaz kapasiteli"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-019",
@@ -263,7 +295,11 @@
    "annotator": "llm-2",
    "answer_span": "1.355 km (841 mil)"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-020",
@@ -277,7 +313,11 @@
    "annotator": "llm-2",
    "answer_span": "56.000 hektarlık deltasıyla"
   },
-  "review": "agreed"
+  "review": "agreed",
+   "human_review": {
+  "reviewer": "royemserli",
+  "verdict": "ok"
+}
  },
  {
   "qid": "llm-cografya-021",
